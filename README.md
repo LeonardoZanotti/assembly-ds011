@@ -10,7 +10,7 @@ You can acess the official site of this software [here](https://courses.missouri
 
 I uploaded the software in this repository, so you can just proceed to **Running** to run the programs.
 
-The Mars software in this repository is in the version 4.5.
+The Mars software in this repository is in the version 4.5 (latest on 08/20/2020).
 
 ## Running
 
